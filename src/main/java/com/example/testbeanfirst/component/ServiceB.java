@@ -1,7 +1,5 @@
 package com.example.testbeanfirst.component;
 
-import org.springframework.stereotype.Component;
-
 public class ServiceB {
 
     private String name;

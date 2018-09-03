@@ -12,14 +12,14 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class TestBeanFirstApplicationTests {
 
-	@Autowired
-	private ServiceA serviceA;
+    @Autowired
+    private ServiceA serviceA;
 
-	@Autowired
-	private ServiceB serviceB;
+    @Autowired
+    private ServiceB serviceB;
 
-	@Test
-	public void contextLoads() {
-	}
+    @Test
+    public void contextLoads() {
+    }
 
 }
